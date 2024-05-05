@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jothiram-cm&label=Profile%20views&color=0e75b6&style=flat" alt="jothiram-cm" /> </p>
 
-- 🌱 I’m currently learning **django,flutter**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-8b0c1.web.app/](https://portfolio-8b0c1.web.app/)
 
-- 💬 Ask me about **python,html,css,JS,php,java**
+- 💬 Ask me about **python,html,css,JS,php**
 
 - 📫 How to reach me **c.m.2003ram@gmail.com**
 
