@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-8b0c1.web.app/](https://portfolio-8b0c1.web.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-8b0c1.web.app/](https://jothiram-pr.vercel.app/))
 
 - 💬 Ask me about **python,html,css,JS,php**
 
