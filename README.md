@@ -2,10 +2,10 @@
 <h3 align="center">Aspiring Data Scientist | Generative AI Enthusiast | Python & SQL Developer</h3>
 
 <p align="center">
-  <a href="mailto:c.m.2003ram@gmail.com">📧 c.m.2003ram@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/jothi-ram-c-m/">LinkedIn</a> |
-  <a href="https://github.com/JothiRam-cm">GitHub</a> |
-  <a href="https://jothiram-pr.vercel.app/">Portfolio</a>
+  <a href="mailto:c.m.2003ram@gmail.com" style="color:#0077B5;">📧 c.m.2003ram@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/jothi-ram-c-m/" style="color:#0077B5;">LinkedIn</a> |
+  <a href="https://github.com/JothiRam-cm" style="color:#0077B5;">GitHub</a> |
+  <a href="https://jothiram-pr.vercel.app/" style="color:#0077B5;">Portfolio</a>
 </p>
 
 ---
@@ -15,6 +15,7 @@
 - 🎓 Pursuing **Postgraduate Program in Data Science (GenAI Specialization)** at Great Learning (Expected Oct 2025)  
 - 💡 Passionate about **Machine Learning, LLMs, RAG systems, and AI-powered applications**  
 - 💻 Skilled in **Python, SQL, Scikit-learn, LangChain, FastAPI, and Tableau**  
+- ☁️ Exploring **AWS Cloud Services** for scalable data solutions  
 - 🚀 Currently exploring **Retrieval-Augmented Generation (RAG)** for cybersecurity and text analytics  
 - 📫 Reach me at **[c.m.2003ram@gmail.com](mailto:c.m.2003ram@gmail.com)**  
 
@@ -27,7 +28,7 @@
 **Generative AI:** LangChain, LLMs, RAG (Retrieve and Generate)  
 **Visualization:** Tableau, Matplotlib, Seaborn, Plotly  
 **Frameworks:** FastAPI, Streamlit  
-**Tools & Platforms:** Google Colab, Anaconda, VSCode, Git, Project IDX  
+**Tools & Platforms:** Google Colab, Anaconda, VSCode, AWS, Git, Project IDX  
 
 ---
 
