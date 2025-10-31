@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jothiram</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jothiram-cm&label=Profile%20views&color=0e75b6&style=flat" alt="jothiram-cm" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently pursuing **PGP in Data Science with GenAI Specialaization**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-8b0c1.web.app/](https://jothiram-pr.vercel.app/))
 
-- 💬 Ask me about **python,html,css,JS,php**
+- 💬 Ask me about **python,SQL,MachineLearning**
 
 - 📫 How to reach me **c.m.2003ram@gmail.com**
 
